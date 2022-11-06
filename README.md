@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CsharpProgramming
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on programming videos
+- 📫 How to reach me: via email, and youtube comments!
+- 👋 If you have any ideas, suggest them!
