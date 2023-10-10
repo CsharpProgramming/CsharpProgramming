@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Via email: chashtag.code@gmail.com**
 
-- ⚡ Fun fact **I like C#**'
+- ⚡ Fun fact **I like C#**
 
 - 🤑 My biggest programmer flex: **My commit streak!**
 
