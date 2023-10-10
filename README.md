@@ -1,4 +1,4 @@
-<h1 align="center">Hi my friend 👋, I'm C# Programming</h1>
+<h1 align="center">Hi my friend 👋, I'm C# Programming!</h1>
 <h3 align="center">Fun fact: I really like coding in C#.</h3>
 
 - 🔭 I’m currently working on **ReBudget**
