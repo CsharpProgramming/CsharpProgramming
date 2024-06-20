@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm C# Programming!</h1>
 <h3 align="center">Fun fact: I really like coding in C#.</h3>
 
-- 🔭 I’m currently working on **ReBudget**
+- 🔭 I’m currently working on **RePowerpoint**, which allows you to generate powerpoints in minutes!
 
 - 🌱 I’m currently learning **C#**
 
