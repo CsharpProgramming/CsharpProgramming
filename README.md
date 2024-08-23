@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm C# Programming!</h1>
-<h3 align="center">Fun fact: I really like coding in C#.</h3>
+<h1 align="center">Hello 👋, I'm C# Programming</h1>
 
 - 🔭 I’m currently working on **RePowerpoint**, which allows you to generate powerpoints in minutes!
 
@@ -9,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Any programming videos!**
 
-- 👨‍💻 All of my projects are available on youtube: [youtube.com/@CsharpProgramming](youtube.com/@CsharpProgramming)
+- 👨‍💻 All of my projects are available on [**youtube**](youtube.com/@CsharpProgramming)
 
 - 💬 Ask me about **Anything C#!**
 
@@ -17,7 +16,7 @@
 
 - ⚡ Fun fact **I like C#**
 
-- 🤑 My biggest programmer flex: **My commit streak!**
+- 🤑 I want to improve: **My commit streak!**
 
 <p></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csharpprogramming&" alt="csharpprogramming" /></p> 
